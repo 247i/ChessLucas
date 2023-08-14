@@ -1,0 +1,11 @@
+Version 11.17
+Traceback (most recent call last):
+  File "lucas.py", line 49, in <module>
+  File "Code\Init.pyo", line 35, in init
+    
+WindowsError: [Error 2] The system cannot find the file specified: 'Lucas.exe'
+Traceback (most recent call last):
+  File "lucas.py", line 49, in <module>
+  File "Code\Init.pyo", line 35, in init
+    
+WindowsError: [Error 2] The system cannot find the file specified: 'Lucas.exe'
